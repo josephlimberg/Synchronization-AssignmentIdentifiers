@@ -20,8 +20,8 @@ Este proyecto es una implementación de un sistema distribuido utilizando una ar
 * Calcula la diferencia entre su reloj local y el del servidor.
 * Muestra en consola: su dirección IP local, el identificador recibido y la diferencia de tiempo con el servidor.
 
-*server <img width="595" height="94" alt="Captura de pantalla 2026-03-03 121948" src="https://github.com/user-attachments/assets/3493bc56-f637-4679-88b7-330284fa5304" />
-*Cliente <img width="567" height="164" alt="Captura de pantalla 2026-03-03 121954" src="https://github.com/user-attachments/assets/3bf37be9-4f3e-449c-942b-2f5aefee2845" />
-*log <img width="623" height="81" alt="Captura de pantalla 2026-03-03 122001" src="https://github.com/user-attachments/assets/4d1a6040-fe4d-417a-8198-eccd78762029" />
+**server** <img width="595" height="94" alt="Captura de pantalla 2026-03-03 121948" src="https://github.com/user-attachments/assets/3493bc56-f637-4679-88b7-330284fa5304" />
+**Cliente** <img width="567" height="164" alt="Captura de pantalla 2026-03-03 121954" src="https://github.com/user-attachments/assets/3bf37be9-4f3e-449c-942b-2f5aefee2845" />
+**log** <img width="623" height="81" alt="Captura de pantalla 2026-03-03 122001" src="https://github.com/user-attachments/assets/4d1a6040-fe4d-417a-8198-eccd78762029" />
 
 
